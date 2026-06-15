@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Frank+Alessandro+%F0%9F%91%8B;Full+Stack+Developer+%7C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;I+build+SaaS%2C+Web+Apps+%26+Systems;React+%2B+Node.js+%2B+PostgreSQL;AI-powered+developer+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Frank+Alessandro;Full+Stack+Developer;React+%2B+Node.js+%2B+PostgreSQL;Building+SaaS+%26+Web+Apps" alt="Typing SVG" />
 
 <br/>
 
@@ -14,40 +14,23 @@
 
 ```js
 const frank = {
-  role:       "Full Stack Developer",
-  location:   "Colombia 🇨🇴",
-  experience: "3+ years",
-  focus:      ["Web Apps", "SaaS", "Information Systems", "E-commerce"],
-  stack:      ["React", "Node.js", "PHP", "PostgreSQL"],
-  ai_tools:   ["Claude Code", "Higgsfield AI"],
-  currently:  "Building scalable products and shipping fast with AI",
+  role:     "Full Stack Developer",
+  location: "Colombia 🇨🇴",
+  focus:    ["Web Apps", "SaaS", "Information Systems", "E-commerce"],
 };
 ```
 
 ---
 
-## What I've shipped
+## AI Tools
 
-> Real numbers. Real impact.
+Tools I integrate into my development process:
 
-- **↓ 60%** server resource consumption — backend optimization at ICA (PHP Yii2 + PostgreSQL)
-- **↓ 40%** load times — image optimization system for rural users with limited connectivity
-- **↑ 35%** frontend performance — SPA React with lazy loading at EstraDigital
-- **1,200+** users served — VotApp, e-voting platform used across CBI Palmira
-- **50+** students trained — CS fundamentals and software development
-- **2x** national finalist — Semilleros de Investigación with ClarBank & VotApp
-
----
-
-## AI in my workflow
-
-I don't just use AI — I build with it.
-
-| Tool | How I use it |
-|------|-------------|
-| ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white) | Pair programming, code review, architecture decisions |
-| ![Higgsfield](https://img.shields.io/badge/Higgsfield_AI-000000?style=flat-square&logo=sparkles&logoColor=white) | AI video generation for product demos and digital content |
-| ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) | Autocomplete & boilerplate acceleration |
+| Tool | Use |
+|------|-----|
+| ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white) **Claude Code** | Pair programming, code review, architecture |
+| ![Higgsfield](https://img.shields.io/badge/Higgsfield_AI-000000?style=flat-square&logoColor=white) **Higgsfield AI** | AI video generation for product demos |
+| ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) **GitHub Copilot** | Autocomplete and boilerplate acceleration |
 
 ---
 
@@ -57,22 +40,18 @@ I don't just use AI — I build with it.
 <tr>
 <td width="50%">
 
-### 🏦 ClarBank
-**Banking App** — React · Node.js · PostgreSQL
+**ClarBank**
+Banking App — React · Node.js · PostgreSQL
 
-Full banking platform: accounts, transactions, balance queries with robust validations. Built for 20+ SENA students.
-
-🏆 National finalist — XIII Encuentro Departamental de Semilleros de Investigación
+Full banking platform with accounts, transactions and balance queries. Built for 20+ SENA students. National finalist, XIII Encuentro Departamental de Semilleros de Investigacion.
 
 </td>
 <td width="50%">
 
-### 🗳️ VotApp
-**E-Voting Platform** — Astro · PHP
+**VotApp**
+E-Voting Platform — Astro · PHP
 
-Secure electronic voting with identity validation and encryption. Used by **1,200+ students** at CBI Palmira. Replaced manual process, zero incidents.
-
-🏆 National finalist — XIII Encuentro Departamental de Semilleros de Investigación
+Secure electronic voting with identity validation and encryption. Used by 1,200+ students at CBI Palmira. National finalist, XIII Encuentro Departamental de Semilleros de Investigacion.
 
 </td>
 </tr>
@@ -126,7 +105,6 @@ Secure electronic voting with identity validation and encryption. Used by **1,20
 
 <div align="center">
 
-**Open to freelance, remote work, and interesting problems.**
-*Let's build something that actually matters.*
+Open to freelance, remote work, and interesting problems.
 
 </div>
