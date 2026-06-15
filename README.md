@@ -1,28 +1,82 @@
 <div align="center">
 
-# Hey there, I'm Frank Alessandro 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Frank+Alessandro+%F0%9F%91%8B;Full+Stack+Developer+%7C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;I+build+SaaS%2C+Web+Apps+%26+Systems;React+%2B+Node.js+%2B+PostgreSQL;AI-powered+developer+%F0%9F%A4%96" alt="Typing SVG" />
 
-### Software Developer · Systems Engineer · Builder
+<br/>
 
-*I design and build web apps, SaaS platforms, information systems, and e-commerce solutions.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/frankalessandro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frankalessandro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank.alessandro.roldan@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=frankalessandro&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/frankalessandro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-frank--alessandro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/frank-alessandro)
+[![Email](https://img.shields.io/badge/Gmail-frank.alessandro.roldan-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frank.alessandro.roldan@gmail.com)
 
 </div>
 
 ---
 
-## About me
+```js
+const frank = {
+  role:       "Full Stack Developer",
+  location:   "Colombia 🇨🇴",
+  experience: "3+ years",
+  focus:      ["Web Apps", "SaaS", "Information Systems", "E-commerce"],
+  stack:      ["React", "Node.js", "PHP", "PostgreSQL"],
+  ai_tools:   ["Claude Code", "Higgsfield AI"],
+  currently:  "Building scalable products and shipping fast with AI",
+};
+```
 
-I'm a Systems Engineer who builds end-to-end digital products — from the UI to the database. My focus is the frontend, but I don't stop there: I handle backend logic, databases, and full product delivery.
+---
 
-What I build:
-- **Web Applications** — fast, responsive, production-ready
-- **SaaS Platforms** — scalable software-as-a-service products
-- **Information Systems** — custom business management tools
-- **E-commerce & Shopify** — stores, themes, and custom integrations
+## What I've shipped
+
+> Real numbers. Real impact.
+
+- **↓ 60%** server resource consumption — backend optimization at ICA (PHP Yii2 + PostgreSQL)
+- **↓ 40%** load times — image optimization system for rural users with limited connectivity
+- **↑ 35%** frontend performance — SPA React with lazy loading at EstraDigital
+- **1,200+** users served — VotApp, e-voting platform used across CBI Palmira
+- **50+** students trained — CS fundamentals and software development
+- **2x** national finalist — Semilleros de Investigación with ClarBank & VotApp
+
+---
+
+## AI in my workflow
+
+I don't just use AI — I build with it.
+
+| Tool | How I use it |
+|------|-------------|
+| ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white) | Pair programming, code review, architecture decisions |
+| ![Higgsfield](https://img.shields.io/badge/Higgsfield_AI-000000?style=flat-square&logo=sparkles&logoColor=white) | AI video generation for product demos and digital content |
+| ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) | Autocomplete & boilerplate acceleration |
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 ClarBank
+**Banking App** — React · Node.js · PostgreSQL
+
+Full banking platform: accounts, transactions, balance queries with robust validations. Built for 20+ SENA students.
+
+🏆 National finalist — XIII Encuentro Departamental de Semilleros de Investigación
+
+</td>
+<td width="50%">
+
+### 🗳️ VotApp
+**E-Voting Platform** — Astro · PHP
+
+Secure electronic voting with identity validation and encryption. Used by **1,200+ students** at CBI Palmira. Replaced manual process, zero incidents.
+
+🏆 National finalist — XIII Encuentro Departamental de Semilleros de Investigación
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,25 +84,30 @@ What I build:
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Tools & Platforms**
+**DevOps & Tools**
 
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
 ---
 
@@ -56,9 +115,10 @@ What I build:
 
 <div align="center">
 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankalessandro&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=frankalessandro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalessandro&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankalessandro&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=frankalessandro&theme=github-dark&hide_border=true" height="150"/>
 
 </div>
 
@@ -66,6 +126,7 @@ What I build:
 
 <div align="center">
 
-*Open to freelance projects and collaborations. Let's build something great.*
+**Open to freelance, remote work, and interesting problems.**
+*Let's build something that actually matters.*
 
 </div>
