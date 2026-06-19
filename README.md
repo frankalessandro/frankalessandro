@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frank+Alessandro;Full+Stack+Software+Engineer;React+%2B+Node.js+%2B+PostgreSQL;SaaS+%26+Web+Application+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frank+Alessandro;Software+Developer;Colombia" alt="Typing SVG" />
+
 
 <br/>
 
@@ -13,42 +14,7 @@
 
 ## About
 
-```typescript
-interface Engineer {
-  role: string;
-  location: string;
-  focus: string[];
-  philosophy: string;
-}
-
-const frankAlessandro: Engineer = {
-  role: "Full Stack Software Engineer",
-  location: "Palmira, Valle del Cauca, Colombia",
-  focus: [
-    "SaaS Architecture",
-    "Web Application Development",
-    "Information Systems",
-    "E-commerce Solutions"
-  ],
-  philosophy: "Write clean, maintainable code and build with the end user in mind."
-};
-```
-
----
-
-## Featured Projects
-
-### ClarBank — Banking Application
-`React` `Node.js` `PostgreSQL`
-
-A full-featured banking platform supporting account management, transactions, and balance queries. Built for a group of 20+ SENA students. National finalist at the XIII Encuentro Departamental de Semilleros de Investigación.
-
-### VotApp — Electronic Voting Platform
-`Astro` `PHP`
-
-A secure e-voting system featuring identity validation and encrypted ballots. Deployed for 1,200+ students at CBI Palmira. National finalist at the XIII Encuentro Departamental de Semilleros de Investigación.
-
----
+I don't just write code — I design, build, and refine digital products with a focus on quality, usability, and long-term impact.
 
 ## Tech Stack
 
@@ -106,6 +72,6 @@ A secure e-voting system featuring identity validation and encrypted ballots. De
 
 <div align="center">
 
-Open to freelance opportunities, remote work, and challenging technical projects.
+Open to collaborating on ambitious products, remote opportunities, and innovative technical challenges.
 
 </div>
