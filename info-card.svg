@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="232" viewBox="0 0 520 232">
   <style>
-    .bg { fill: #0d1117; stroke: #21262d; stroke-width: 1; }
+    .bg { fill: #0d1117; stroke: #2EA043; stroke-width: 1; }
     .bar { fill: #161b22; }
     .dot { opacity: 0.55; }
-    .title { fill: #c9c9c9; font: 600 12px JetBrains Mono, Consolas, monospace; }
+    .title { fill: #2EA043; font: 600 12px JetBrains Mono, Consolas, monospace; }
     .row {
       font: 13px JetBrains Mono, Consolas, monospace;
       opacity: 0;
