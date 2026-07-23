@@ -1,78 +1,99 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frank+Alessandro;Software+Developer;Colombia" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=D4AF37&center=true&vCenter=true&width=800&lines=Frank+Alessandro;Software+Developer+%E2%80%94+Colombia;Code+with+intent." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-frank--alessandro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frank-alessandro)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank.alessandro.roldan@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://alessandro-web.vercel.app/)
+<em>Digital products built with precision, not accidents.</em>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/frank-alessandro)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:frank.alessandro.roldan@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://alessandro-web.vercel.app/)
 
 </div>
 
----
+<br/>
 
-## About
+## ⟡ About
 
-I don't just write code — I design, build, and refine digital products with a focus on quality, usability, and long-term impact.
+I don't just ship features — I design systems, weigh trade-offs, and refine until the seams disappear. Quality and long-term maintainability come before speed; speed comes right after.
 
-## Tech Stack
+<br/>
+
+## ⟡ Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=D4AF37)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37)
+![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=D4AF37)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=D4AF37)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=D4AF37)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=D4AF37)
 
-**Backend & Database**
+</td>
+<td valign="top" width="33%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Backend & Data**
 
-**DevOps & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=D4AF37)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=D4AF37)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=D4AF37)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=D4AF37)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
----
+**DevOps & Tooling**
 
-## AI-Assisted Development Workflow
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4AF37)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=D4AF37)
+![Jest](https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=D4AF37)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=D4AF37)
+![Shopify](https://img.shields.io/badge/Shopify-000000?style=flat-square&logo=shopify&logoColor=D4AF37)
 
-| Tool | Application |
-|------|-------------|
-| ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white) | Pair programming, code review, and architecture design |
-| ![Higgsfield AI](https://img.shields.io/badge/Higgsfield_AI-000000?style=flat-square&logoColor=white) | AI-generated video content for product demonstrations |
-| ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white) | Code completion and boilerplate generation |
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## GitHub Statistics
+## ⟡ AI-Assisted Workflow
+
+AI as leverage, not as a crutch — every output still passes through my own judgment.
+
+| Tool | Role |
+|:--|:--|
+| ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=D4AF37) | Pair programming, code review, architecture design |
+| ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=D4AF37) | Completion and boilerplate |
+| ![Higgsfield AI](https://img.shields.io/badge/Higgsfield_AI-000000?style=flat-square&logoColor=D4AF37) | AI-generated video for product demos |
+
+<br/>
+
+## ⟡ Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=frankalessandro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalessandro&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=frankalessandro&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=D4AF37&icon_color=D4AF37&text_color=c9c9c9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalessandro&layout=compact&hide_border=true&langs_count=6&title_color=D4AF37&text_color=c9c9c9&bg_color=0d1117" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=frankalessandro&theme=github-dark&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=frankalessandro&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=6e7681" height="150"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-Open to collaborating on ambitious products, remote opportunities, and innovative technical challenges.
+Open to ambitious products, remote roles, and problems worth solving properly.
 
 </div>
