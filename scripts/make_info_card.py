@@ -14,8 +14,8 @@ TITLE = "frank@github"
 FIELDS = [
     ("Role", "Software Developer"),
     ("Location", "Colombia"),
-    ("Tecnólogo", "Análisis y Desarrollo de Software (SENA)"),
-    ("Ingeniería", "Ingeniero en Sistemas"),
+    ("Technologist", "Software Analysis & Development (SENA)"),
+    ("Engineer", "Systems Engineering"),
     ("Focus", "Products built to last, not just ship"),
     ("Status", "Open to remote roles"),
 ]

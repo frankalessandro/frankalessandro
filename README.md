@@ -24,12 +24,7 @@ I don't just ship features — I design systems, weigh trade-offs, and refine un
 
 <h3><code>frank@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./dev-logo.svg" width="520"/></td>
-<td valign="top"><img src="./info-card.svg" width="520"/></td>
-</tr>
-</table>
+<img src="./info-card.svg" width="520"/>
 
 </div>
 
