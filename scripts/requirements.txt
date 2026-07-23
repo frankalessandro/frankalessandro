@@ -1,2 +1,4 @@
 requests==2.32.3
 beautifulsoup4==4.12.3
+# art-only (not needed by the daily heatmap workflow):
+pillow
