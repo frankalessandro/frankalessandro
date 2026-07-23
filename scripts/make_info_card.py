@@ -4,6 +4,7 @@ keep it current -- this is hand-authored, not scraped."""
 
 import os
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 OUT_PATH = Path(__file__).resolve().parent.parent / "info-card.svg"
 FONT = "JetBrains Mono, Consolas, monospace"
@@ -13,13 +14,13 @@ TITLE = "frank@github"
 FIELDS = [
     ("Role", "Software Developer"),
     ("Location", "Colombia"),
-    ("Stack", "TS/JS · React · Node · PostgreSQL"),
-    ("Tooling", "Docker · GitHub Actions · Claude Code"),
+    ("Tecnólogo", "Análisis y Desarrollo de Software (SENA)"),
+    ("Ingeniería", "Ingeniero en Sistemas"),
     ("Focus", "Products built to last, not just ship"),
     ("Status", "Open to remote roles"),
 ]
 
-WIDTH = 490
+WIDTH = 520
 LINE_H = 26
 TOP_PAD = 56
 PAD_X = 24
@@ -36,9 +37,9 @@ def main():
         opacity_style = "opacity:1" if static else f"animation-delay:{delay:.2f}s"
         rows.append(
             f'<text class="row" x="{PAD_X}" y="{y}" style="{opacity_style}">'
-            f'<tspan class="key">{key}</tspan>'
+            f'<tspan class="key">{escape(key)}</tspan>'
             f'<tspan class="sep">  </tspan>'
-            f'<tspan class="val">{value}</tspan>'
+            f'<tspan class="val">{escape(value)}</tspan>'
             f'</text>'
         )
 

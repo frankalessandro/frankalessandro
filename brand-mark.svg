@@ -31,7 +31,7 @@
     }
   </style>
   <rect class="bg" width="370" height="370" rx="8"/>
-  <text class="mark" x="50%" y="52%" text-anchor="middle" dominant-baseline="middle"><tspan style="animation-delay:0.00s"><</tspan><tspan style="animation-delay:0.35s">/</tspan><tspan style="animation-delay:0.70s">></tspan></text>
+  <text class="mark" x="50%" y="52%" text-anchor="middle" dominant-baseline="middle"><tspan style="animation-delay:0.00s">&lt;</tspan><tspan style="animation-delay:0.35s">/</tspan><tspan style="animation-delay:0.70s">&gt;</tspan></text>
   <rect class="cursor" x="273.0" y="152.4" width="10" height="60"/>
   <text class="caption" x="50%" y="80%" text-anchor="middle">frankalessandro</text>
 </svg>

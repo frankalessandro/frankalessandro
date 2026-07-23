@@ -6,6 +6,8 @@
 
 <em>Digital products built with precision, not accidents.</em>
 
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2EA043)](https://linkedin.com/in/frank-alessandro)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=2EA043)](mailto:frank.alessandro.roldan@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=2EA043)](https://alessandro-web.vercel.app/)
@@ -17,6 +19,23 @@
 ## ⟡ About
 
 I don't just ship features — I design systems, weigh trade-offs, and refine until the seams disappear. Quality and long-term maintainability come before speed; speed comes right after.
+
+<br/>
+
+## ⟡ Identity
+
+<div align="center">
+
+<h3><code>frank@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./brand-mark.svg" width="370"/></td>
+<td valign="top"><img src="./info-card.svg" width="520"/></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -74,32 +93,23 @@ I don't just ship features — I design systems, weigh trade-offs, and refine un
 
 <br/>
 
-## ⟡ Featured Work
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| [**Project Name**](https://github.com/frankalessandro/repo) | One-line pitch — the problem it solves, not just what it is. | React · Node · PostgreSQL |
-| [**Project Name**](https://github.com/frankalessandro/repo) | One-line pitch — the problem it solves, not just what it is. | Astro · Tailwind |
-| [**Project Name**](https://github.com/frankalessandro/repo) | One-line pitch — the problem it solves, not just what it is. | Shopify · PHP |
-
-<br/>
+## ⟡ Activity
 
 <div align="center">
 
 <h3><code>frank@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" alt="Contribution heatmap" width="860"/>
+<img src="./contrib-heatmap.svg" alt="Contribution heatmap" width="890"/>
 
 <br/><br/>
 
-<h3><code>frank@github ~ $ whoami</code></h3>
+<img src="https://github-readme-stats.vercel.app/api?username=frankalessandro&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=2EA043&icon_color=2EA043&text_color=c9c9c9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalessandro&layout=compact&hide_border=true&langs_count=6&title_color=2EA043&text_color=c9c9c9&bg_color=0d1117" height="165"/>
+<img src="https://streak-stats.demolab.com?user=frankalessandro&hide_border=true&background=0d1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=6e7681" height="165"/>
 
-<table>
-<tr>
-<td valign="top"><img src="./brand-mark.svg" width="370"/></td>
-<td valign="top"><img src="./info-card.svg" width="490"/></td>
-</tr>
-</table>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=frankalessandro&theme=matrix&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Followers,Stars,PullRequest,Issues,Experience" height="105"/>
 
 </div>
 

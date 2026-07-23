@@ -4,6 +4,7 @@ portrait, without putting a photo in the repo."""
 
 import os
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 OUT_PATH = Path(__file__).resolve().parent.parent / "brand-mark.svg"
 GREEN = "#2EA043"
@@ -23,7 +24,7 @@ def main():
     for i, ch in enumerate(MARK):
         delay = 0 if static else i * char_delay
         glyphs.append(
-            f'<tspan style="animation-delay:{delay:.2f}s">{ch}</tspan>'
+            f'<tspan style="animation-delay:{delay:.2f}s">{escape(ch)}</tspan>'
         )
 
     caption = "frankalessandro"
