@@ -1,41 +1,6 @@
 {
   "days": [
     {
-      "date": "2025-09-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-20",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-09-21",
       "level": 0,
       "count": 0
@@ -1793,7 +1758,7 @@
     {
       "date": "2026-09-07",
       "level": 1,
-      "count": 1
+      "count": 3
     },
     {
       "date": "2026-09-08",
@@ -1817,8 +1782,8 @@
     },
     {
       "date": "2026-09-12",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-09-13",
@@ -1827,12 +1792,47 @@
     },
     {
       "date": "2026-09-14",
+      "level": 2,
+      "count": 8
+    },
+    {
+      "date": "2026-09-15",
+      "level": 2,
+      "count": 10
+    },
+    {
+      "date": "2026-09-16",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-09-17",
+      "level": 1,
+      "count": 3
+    },
+    {
+      "date": "2026-09-18",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-09-19",
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-09-20",
+      "level": 1,
+      "count": 4
+    },
+    {
+      "date": "2026-09-21",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 582,
+    "total": 612,
     "current_streak": 0,
     "longest_streak": 36,
     "best_day": "2026-06-17",
